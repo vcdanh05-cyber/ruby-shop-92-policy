@@ -1,0 +1,1 @@
+# ruby-shop-92-policy
